@@ -5,7 +5,7 @@ const config = require("./config");
 
 
 
-//const token = "MTA4Njk4ODQzNzEzMjk1MTU5Mg.GWbkfk.M4W1vf84gYPB1PrNUVLO5k23egpsjlvQbKIb1o"
+
 
 client.on("ready", () => {
     console.log("feliciter il est en ligne");
